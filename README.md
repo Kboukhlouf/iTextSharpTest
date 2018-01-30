@@ -1,2 +1,2 @@
 # iTextSharpTest
-Poc of generating pdf documents using iTextSharp
+Proof of Concept of generating PDF documents using iTextSharp
